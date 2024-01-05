@@ -8,7 +8,7 @@
 </h1>
 <!-- <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1> -->
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=3000&lines=A+passionate+Software+Engineer+from+Bangladesh;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=3000&Code&pause=1000&repeat=false&random=false&lines=A+passionate+Software+Engineer+from+Bangladesh;" />
   
 </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
