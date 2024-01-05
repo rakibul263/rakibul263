@@ -35,6 +35,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=rakibul263&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <img src="https://raw.githubusercontent.com/rakibul263/rakibul263/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
