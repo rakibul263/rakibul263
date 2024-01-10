@@ -1,20 +1,20 @@
 <div align="center">
-  <img height="300" src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/416355869_122103798272177056_8687889666118468008_n.png?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=zuO3USoea0IAX9-IwAt&_nc_ht=scontent.fdac152-1.fna&oh=00_AfAcjYiHgOEnyhC-q1uLcaVawXpH4gNB114lStcfI0Wzlw&oe=65A29BEB"  />
+  <img height="280" src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/416355869_122103798272177056_8687889666118468008_n.png?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=zuO3USoea0IAX9-IwAt&_nc_ht=scontent.fdac152-1.fna&oh=00_AfAcjYiHgOEnyhC-q1uLcaVawXpH4gNB114lStcfI0Wzlw&oe=65A29BEB"  />
 </div>
 
 ###
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakibul263.rakibul263" />
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=3000&Code&pause=1000&repeat=false&random=false&lines=Welcome!++To+my+GitHub+Profile;" />
+</h3>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakibul+Hasan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Rakibul+Hasan;" />
   
 </h1>
 <!-- <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1> -->
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=3000&Code&pause=1000&repeat=false&random=false&lines=A+passionate+Software+Engineer+from+Bangladesh;" />
-  
-</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"-->
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Data Structure**
