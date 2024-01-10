@@ -1,5 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+<div align="center">
+  <img height="300" src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/416355869_122103798272177056_8687889666118468008_n.png?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=zuO3USoea0IAX9-IwAt&_nc_ht=scontent.fdac152-1.fna&oh=00_AfAcjYiHgOEnyhC-q1uLcaVawXpH4gNB114lStcfI0Wzlw&oe=65A29BEB"  />
+</div>
 
+###
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakibul263.rakibul263" />
 
 <h1 align="center">
