@@ -19,7 +19,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **C/C++/DSA**
 
 - 📫 How to reach me **rakibulhasanshuvo206@gmail.com**
 
