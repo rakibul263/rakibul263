@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="260" src="https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/416355869_122103798272177056_8687889666118468008_n.png?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEwxDb4vcYBJskwmBP4Fs2igNyRah1GoDyA3JFqHUagPE0CsjEWQG8t2560abiWl7iq9hk8dF3vpmCgQeem286e&_nc_ohc=1UAbt_3URhkAX-n6hAr&_nc_ht=scontent.fdac80-1.fna&oh=00_AfDQU-Htk9VFVSKAtS9Z3R0sGpaJa-aI0ValmBrKsYdSZA&oe=65C43A2B"  />
+  <img height="260" src=""  />
 </div>
 
 ###
