@@ -23,6 +23,8 @@
 
 - 📫 How to reach me **rakibulhasanshuvo206@gmail.com**
 
+- <a href="https://drive.google.com/file/d/1hE3_HVzS6cN34A7eesGNCZ_CE1DPj9x-/view?usp=sharing">📋 Download My Resume</a>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rakibul13631) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibul13631) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakibul13631) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/rakibul-hasan-3a9b03269) 
