@@ -1,14 +1,16 @@
-name: Coding habits
+name: 🧠 Coding Habits & Activity
 
 on:
-  schedule: [{ cron: "0 */6 * * *" }] # every 6 hours
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics (Coding Habits)
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -16,6 +18,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           config_timezone: Asia/Dhaka
