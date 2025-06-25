@@ -92,11 +92,18 @@
   <img src="https://github.com/rakibul263/rakibul263/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibul263&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul263&theme=radical&hide_border=false" width="48%"/>
-</p>
+# 📊 GitHub Stats:
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul263&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rakibul263&theme=one_dark_pro&hide_border=false" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul263&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
