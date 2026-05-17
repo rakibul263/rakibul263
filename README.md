@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=45&lines=🚀+Architecting+next-gen+web+experiences...;⚡+Next.js+%7C+TypeScript+%7C+GSAP+%7C+Node.js;🧠+Solving+problems+with+C%2B%2B+%26+DSA+daily;🔐+Secure+backends+with+JWT+%2B+MongoDB;🎨+Where+clean+code+meets+beautiful+UI;💡+Building+the+future+—+one+commit+at+a+time" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%9A%80+Architecting+next-gen+web+experiences...;%E2%9A%A1+Next.js+%7C+TypeScript+%7C+GSAP+%7C+Node.js;%F0%9F%A7%A0+Solving+problems+with+C%2B%2B+%26+DSA+daily;%F0%9F%94%90+Secure+backends+with+JWT+%2B+MongoDB;%F0%9F%8E%A8+Where+clean+code+meets+beautiful+UI;%F0%9F%92%A1+Building+the+future+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/><br/>
 
