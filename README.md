@@ -187,11 +187,28 @@ System Design        █████████████░░░░░░�
 </div>
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rakibul263&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rakibul263&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakibul263&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=rakibul263&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12&custom_title=⚡+Rakibul's+Stats&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117&ring_color=00ccff" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul263&theme=radical&hide_border=true&layout=donut&border_radius=12&langs_count=8&title_color=ff6efd&bg_color=0d1117" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=rakibul263&theme=radical&hide_border=true&border_radius=12&background=0D1117&stroke=00ff88&ring=00ccff&fire=ff6efd&currStreakLabel=00ff88&sideLabels=00ccff&dates=8888aa" width="680" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibul263&theme=radical&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact" />
+
+</div>
 
 ---
 
