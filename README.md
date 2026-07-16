@@ -32,13 +32,13 @@
   <img src="https://img.shields.io/badge/📄_RESUME-Download_Now-00ff88?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://rakibulhasanshuvo.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-View_Live-00ccff?style=for-the-badge&labelColor=0d1117" />
+<a href="https://rakibulhasanshuvo.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-View_Live-00ccff?style=for-the-badge&labelColor=0d1117"  target="_blank"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2&width=100%" width="100%" target="_blank"/>
 
 </div>
 
@@ -87,7 +87,7 @@ I'm a **Full Stack Developer** from Bangladesh 🇧🇩, passionate about crafti
 
 **Tools & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,docker,postman,figma,notion,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vercel,docker,postman,figma,notion,arduino&theme=dark" />
 
 </div>
 
